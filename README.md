@@ -16,10 +16,7 @@
 В процессе тестирования использовались следующие артефакты:
 * Баг-репорты в Issues 
 * Отчет о тестировании
-
-
-
-В качестве тестовых данных использовались [данные](https://www.freeformatter.com/credit-card-number-generator-validator.html) .
+* В качестве тестовых данных использовались номера карт по [ссылке](https://www.freeformatter.com/credit-card-number-generator-validator.html) .
 
 Тестирование производилось в следующем окружении:
 * OC Windows 10, 64-bit
